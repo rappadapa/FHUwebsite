@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44.565" height="44.565" viewBox="0 0 44.565 44.565">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.153" cy="1.492" r="2.238" gradientTransform="matrix(0.527, -0.85, 0.674, 0.418, -0.783, 0.854)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9ed32"/>
+      <stop offset="0" stop-color="#f9e734"/>
+      <stop offset="0.469" stop-color="#ef3e73"/>
+      <stop offset="0.998" stop-color="#012aff"/>
+      <stop offset="1" stop-color="#002aff"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_712" data-name="Group 712" transform="translate(-774.813 -6124.375)">
+    <rect id="Rectangle_941" data-name="Rectangle 941" width="44.565" height="44.565" rx="4" transform="translate(774.813 6124.375)" fill="url(#radial-gradient)"/>
+    <path id="Path_2433" data-name="Path 2433" d="M15.458,35.472a6.494,6.494,0,0,1-4.094-4.042c-.624-1.868-1-12.978,0-15.96a6.752,6.752,0,0,1,4.1-4.105c1.888-.631,12.994-.995,15.96,0a6.757,6.757,0,0,1,4.105,4.1c.635,1.908.994,12.992,0,15.96a6.752,6.752,0,0,1-4.1,4.106C29.628,36.13,18.361,36.578,15.458,35.472Zm.82-21.373a3.644,3.644,0,0,0-2.183,2.187c-.772,2.067-.618,12.576,0,14.328A3.835,3.835,0,0,0,16.29,32.8c2.169.763,12.694.608,14.319,0A3.835,3.835,0,0,0,32.8,30.6c.77-2.185.6-12.7,0-14.319A3.641,3.641,0,0,0,30.606,14.1c-2.1-.79-12.6-.609-14.328,0Zm7.169,15.993a6.646,6.646,0,1,1,6.647-6.646,6.646,6.646,0,0,1-6.647,6.646Zm0-10.467a3.807,3.807,0,1,0,2.706,1.115,3.821,3.821,0,0,0-2.706-1.115Zm6.611-.992a1.8,1.8,0,1,1,1.8-1.8,1.86,1.86,0,0,1-1.8,1.8Z" transform="translate(773.133 6123.43)" fill="#fff"/>
+  </g>
+</svg>
