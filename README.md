@@ -15,6 +15,7 @@ Download the contents of this as a .zip and extract, then open "index.html" in a
 - seal.mp4
 - test.js
 - test.css
+- boiler.html (keep this if u want idc use it for yourself idc either)
 
 
 ---
