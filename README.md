@@ -10,6 +10,12 @@ This is currently in very slow and minor development by me and is **currently on
 
 Download the contents of this as a .zip and extract, then open "index.html" in a brwoser
 
+**Extraneous Files:**
+- login.html
+- seal.mp4
+- test.js
+- test.css
+
 
 ---
 **Author:** Rappadapa
