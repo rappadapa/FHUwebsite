@@ -13,6 +13,8 @@ Download the contents of this as a .zip and extract, then open "index.php" in a 
 **Extraneous Files:**
 - seal.mp4
 - yeen.mp4
+- index.html (not finished moving content from there to "index.php")
+- style.css (not finished moving content from there to "index.css)
 - boiler.html (keep this if u want idc use it for yourself idc either)
 
 
